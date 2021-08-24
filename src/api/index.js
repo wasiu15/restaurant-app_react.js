@@ -2,7 +2,7 @@ import axios from "axios";
 
 const BASE_URL = "http://localhost:57222/api/";
 
-export const ENDPOINTS = {
+export const ENDPIONTS = {
   CUSTOMER: "Customer",
   FOODITEM: "FoodItem",
   ORDER: "Order",
